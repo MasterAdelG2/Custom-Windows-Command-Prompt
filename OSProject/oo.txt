@@ -1,0 +1,14 @@
+ Volume in drive E is Media
+ Volume Serial Number  1C17-F23F
+
+  Directory of E:\ 
+
+ (Last Modified Time)	    (Size)    (Name)
+2017-12-19  09:58            6,468  dire.txt
+2017-12-11  23:19              588  hel.txt
+2017-12-14  22:14    <DIR>          m
+2017-12-13  16:46    <DIR>          MultiMedia
+2017-12-05  22:29    <DIR>          Org
+2017-12-17  22:35    <DIR>          Work
+	    2 File(s)	7,056 Bytes
+	    4 Dir(s) 	 

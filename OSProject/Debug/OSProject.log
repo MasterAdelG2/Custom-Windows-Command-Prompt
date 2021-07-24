@@ -1,0 +1,17 @@
+﻿  Source.cpp
+D:\WORK\OS Project\OSProject\OSProject\Source.cpp(160,44): warning C4018:  '<': signed/unsigned mismatch
+D:\WORK\OS Project\OSProject\OSProject\Source.cpp(169,42): warning C4018:  '<': signed/unsigned mismatch
+D:\WORK\OS Project\OSProject\OSProject\Source.cpp(331,42): warning C4018:  '<': signed/unsigned mismatch
+D:\WORK\OS Project\OSProject\OSProject\Source.cpp(350,20): warning C4018:  '<': signed/unsigned mismatch
+D:\WORK\OS Project\OSProject\OSProject\Source.cpp(601,42): warning C4018:  '<': signed/unsigned mismatch
+D:\WORK\OS Project\OSProject\OSProject\Source.cpp(674,36): warning C4244:  'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+D:\WORK\OS Project\OSProject\OSProject\Source.cpp(695,42): warning C4018:  '<': signed/unsigned mismatch
+D:\WORK\OS Project\OSProject\OSProject\Source.cpp(951,42): warning C4018:  '<': signed/unsigned mismatch
+D:\WORK\OS Project\OSProject\OSProject\Source.cpp(1213,24): warning C4804:  '>': unsafe use of type 'bool' in operation
+D:\WORK\OS Project\OSProject\OSProject\Source.cpp(1244,24): warning C4804:  '>': unsafe use of type 'bool' in operation
+D:\WORK\OS Project\OSProject\OSProject\Source.cpp(1368,61): warning C4018:  '<': signed/unsigned mismatch
+D:\WORK\OS Project\OSProject\OSProject\Source.cpp(1415,42): warning C4018:  '<': signed/unsigned mismatch
+D:\WORK\OS Project\OSProject\OSProject\Source.cpp(1556,20): warning C4018:  '<': signed/unsigned mismatch
+D:\WORK\OS Project\OSProject\OSProject\Source.cpp(1621,20): warning C4018:  '<': signed/unsigned mismatch
+D:\WORK\OS Project\OSProject\OSProject\Source.cpp(1690,15): warning C4244:  '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  OSProject.vcxproj -> D:\WORK\OS Project\OSProject\Debug\OSProject.exe

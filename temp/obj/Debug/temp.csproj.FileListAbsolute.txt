@@ -1,0 +1,6 @@
+E:\Work\Projects\VisualProjects\OSProject\temp\bin\Debug\temp.exe.config
+E:\Work\Projects\VisualProjects\OSProject\temp\bin\Debug\temp.exe
+E:\Work\Projects\VisualProjects\OSProject\temp\bin\Debug\temp.pdb
+E:\Work\Projects\VisualProjects\OSProject\temp\obj\Debug\temp.csprojResolveAssemblyReference.cache
+E:\Work\Projects\VisualProjects\OSProject\temp\obj\Debug\temp.exe
+E:\Work\Projects\VisualProjects\OSProject\temp\obj\Debug\temp.pdb
